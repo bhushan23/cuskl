@@ -53,14 +53,14 @@ List of dependencies:
 4. Cython (>= 0.28)
 5. gcc (>=5.4.0)
 6. nvcc
-7. [cuDF](https://github.com/gpuopenanalytics/pygdf)
+7. [cuDF](https://github.com/rapidsai/pygdf)
 
 ### Setup steps
 
 To clone:
 
 ```
-git clone --recurse-submodules git@github.com:rapidsai/cuskl-alpha.git
+git clone --recurse-submodules https://github.com/rapidsai/cuskl.git
 ```
 
 To build the python package, in the repository root folder:
@@ -102,9 +102,8 @@ Current external subbmodules are:
 
 ## Contributing
 
-Section in progress
+Plese use issues and pull requests to report bugs and add functionality.
 
+## Contact
 
-## Contact:
-
-
+Find out more details on the [RAPIDS site](https://rapids.ai/community.html)
