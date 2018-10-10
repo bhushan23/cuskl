@@ -95,9 +95,9 @@ will be automatically populated in the main CMakeLists.txt file for these.
 
 Current external subbmodules are:
 
-- (CUTLASS)[https://github.com/NVIDIA/cutlass]
-- (Google Test)[https://github.com/google/googletest]
-- (CUB)[https://github.com/NVlabs/cub]
+- [CUTLASS](https://github.com/NVIDIA/cutlass)
+- [Google Test](https://github.com/google/googletest)
+- [CUB](https://github.com/NVlabs/cub)
 
 
 ## Contributing
